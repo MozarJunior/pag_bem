@@ -1,0 +1,17 @@
+# Arquivos de compilação e bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos gerados pelo Django
+db.sqlite3
+media/
+
+# Ambiente virtual (se você estiver usando venv ou virtualenv)
+venv/
+env/
+
+# Arquivos de configuração locais
+.env
+.env.local
